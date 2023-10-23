@@ -169,7 +169,7 @@ const Skills = () => {
                   aria-controls="panel1bh-content"
                   id="panel1bh-header"
                 >
-                  <Typography variant={window.screen.width > 600 ? "h6" : "body1"}>{project.title}</Typography>
+                  <Typography variant={window.screen.width > 600 ? "h6" : "body2"}>{project.title}</Typography>
                 </AccordionSummary>
 
                 <AccordionDetails>
@@ -177,14 +177,14 @@ const Skills = () => {
                     {" "}
                     Description:
                   </Typography>
-                  <Typography variant={window.screen.width > 600 ? "h6" : "body1"} sx={{ ml: 1 }}>
+                  <Typography variant={window.screen.width > 600 ? "h6" : "body2"} sx={{ ml: 1 }}>
                     {project.description}
                   </Typography>
                   <Typography display="inline" sx={{ color: "black" }}>
                     {" "}
                     Technology Used:
                   </Typography>
-                  <Typography variant={window.screen.width > 600 ? "h6" : "body1"} sx={{ ml: 1 }}>
+                  <Typography variant={window.screen.width > 600 ? "h6" : "body2"} sx={{ ml: 1 }}>
                     {project.skills.join(", ")}
                   </Typography>
 
