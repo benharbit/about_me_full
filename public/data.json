@@ -1,0 +1,33 @@
+[
+    {
+        "src": "./futures.jpeg",
+        "alt": "Trading front end",
+        "title": "DeFi Trading Application",
+        "description": "Built a futures and option trading platform in React, Typescript, and Web3.",
+        "webLink": "https://www.akashamarkets.io/Home"
+    },
+    {
+        "src": "./nftmarketplace.webp",
+        "alt": "NFT Marketplace",
+        "title": "NFT Marketplace",
+        "description": "Contributed to a NFT Marketplace with React, NextJS, Typescript, and Web3.",
+        "webLink": "https://www.nftmarketcity.com",
+        "githubLink": "https://github.com/benharbit/nft-marketplace-generic"
+    },
+{
+    "src": "./tradingWidget.png",
+    "alt": "Trading widget",
+    "title": "Trading Widget",
+    "description": "Created a widget in React, Javascript, Web3 and Tailwind that swaps specific tokens.",
+    "webLink": "https://ui-widget-ec095d925c9e.herokuapp.com/"
+},
+
+{
+    "src": "./solana_twitter.jpeg",
+    "alt": "Solana social media",
+    "title": "Solana Social Media",
+    "description": "Create a Twitter clone in Rust, Solana, React, and Typescript",
+    "webLink": "https://www.solana-twitter.com/",
+    "githubLink": "https://github.com/benharbit/solana_rust_tweet"
+}
+]

@@ -1,0 +1,65 @@
+
+[{
+	"title": "Solana Twitter Clone", 
+	"description": "A twitter clone built on the Solana blockchain", 
+	"github": "https://github.com/risingsun007/solana-twitter-frontend-clone-reactjs",
+	"website": "https://solana-twitter-clone.herokuapp.com/",
+	"skills": ["Typescript", "React", "Solana", "Rust", "Context Api"]
+},
+{
+	"title": "NFT Marketplace on Ethereum", 
+	"description": "An Ethereum NFT marketplace with 1155 Solidity smart contract and Metamask integration",
+	"github": "https://github.com/risingsun007/solana-twitter-frontend-clone-reactjs",
+	"website": "https://nft-marketplace.herokuapp.com/",
+	"skills": ["Typescript", "React", "Ethereum", "Solidity", "ERC-1155", "MetaMask"]
+},
+{
+	"title": "PancakeSwap Clone", 
+	"description": "I forked PancakeSwap front and backend and deployed it on Heroku for a client.  The DEX contracts as well as the dividend paying ERC20 contracts I created in solidity were deployed to a private blockchain." ,
+	"skills": ["Typescript", "React", "Redux", "Solidity", "Ethereum", "ERC-20", "MetaMask"],
+	"website": null,
+	"github": null
+},
+{
+	"title": "Crypto Trading for Own Account", 
+	"description": "I created multipled trading bots for Centralized and Decentalized Crypo Exchanges and profitably executed millions of crypto trades over 10 exchanges",
+	"skills": ["C++", "Python", "Typescript", "Solidity", "Flashbots"],
+	"website": null,
+	"github": "https://github.com/risingsun007/Solidity_DEX_trading"
+},
+{
+	"title": "VScode extension for Foundry for startup in San Francisco",
+	"description": "I created a vscode extension for a startup in San Francisco that wrapped Foundry functionality",
+	"skills": ["Typescript", "Foundry", "VSCode Extension"],
+	"website": null,
+	"github": null
+},
+{
+	"title": "NFT Trading Bot for Client",
+	"description": "I made an OpenSea trading bot for a client that traded NFTs on the OpenSea marketplace",
+	"skills": ["Typescript", "Foundry", "OpenSea API", "Solidity", "ERC-721", "ERC-1155", "Seaport Protocol"],
+	"website": null,
+	"github": null
+},
+{
+	"title": "Tokenomics ERC20 Smart Contract for Client",
+	"description": "Created tokenomics ERC20 Smart contract for client with taxes on transfers and reflections",
+	"skills": ["Solidity", "Hardhat", "ERC-20"],
+	"website": null,
+	"github": null
+},
+{
+	"title": "EVM Debugger in C++",
+	"description": "I modified an EVM to get more debugging infomation than is presented in Foundry or Hardhat",
+	"skills": ["Solidity", "C++"],
+	"website": null,
+	"github": "https://github.com/ethereum/evmone"
+},
+{
+	"title": "Trading bot with MERN stack admin panel",
+	"description": "Trading bot deployed on Heroku with an Admin panel to control the bot behavior using MERN stack",
+	"skills": ["Typescript", "React", "Express", "MongoDB", "NextJS"],
+	"website": null,
+	"github": "https://github.com/ethereum/evmone"
+}
+]
