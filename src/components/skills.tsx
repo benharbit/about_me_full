@@ -111,7 +111,7 @@ const Skills = () => {
         variant={window.screen.width > 600 ? "h4" : "h4"}
         sx={{ mb: 3, mt: window.screen.width > 600 ? 10 : 0 }}
       >
-       All Projects
+       All My Projects
       </Typography>
       <Box
         sx={{ display: "flex", flexDirection: "column", alignItems: "center" }}

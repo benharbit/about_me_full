@@ -38,7 +38,7 @@ export function Me(): JSX.Element {
         </div>
   
         <div className="work1">
-          <h1>My Frontend Projects</h1>
+          <h1>My Front End Projects</h1>
   
           <div className="work-container" id="workContainer"></div>
         </div>
